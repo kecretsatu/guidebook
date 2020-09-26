@@ -1,0 +1,15 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.masthead {
+}
+
+.masthead h1 {
+    font-size: 40px;
+    font-family: 'robotobold', Helvetica, Arial, sans-serif;
+}
+
+.masthead h2 {
+    font-size: 16px;
+}
